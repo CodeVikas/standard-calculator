@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    border: 2px solid black;
+    width: 293px;
+    margin: 37%;
+    margin-top: 0%;
+    background-color: rgb(222, 222, 205);
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    width: 63px;
+    height: 51px;
+    border-radius: 15px;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+}
+
+input{
+    width: 265px;
+    height: 30px;
+    border-radius: 9px;
+    border: 2px solid black;
+}
+h3{
+    font-size: 55px;
+    margin: 1%;
+}
+#name{
+    font-size: 10px;
+}
